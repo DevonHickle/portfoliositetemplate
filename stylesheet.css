@@ -1,0 +1,54 @@
+/* Homepage styling goes here */
+/**/
+/**/
+/**/
+/*Homepage background stylings */
+body{
+    background-image:none;
+    background: blanchedalmond fixed;
+}
+p{
+    color: blue;
+}
+
+/* Top navigation bar stylings */
+.topnav{
+    background-color: black;
+    overflow: hidden;
+    text-align: center;
+}
+
+.topnav a{
+    float: left;
+    color: White;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+
+/* Headline styling */
+#myName{
+    color:black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Photography page styling goes here */
+
+#photoheader{
+    text-align: center;
+    color: black;
+}
+
+
+
+
+/* About me page styling goes here */
+
+#aboutText{
+    color: black;
+    text-align: center;
+}
+
+/* Contact Page styling goes here */
+
